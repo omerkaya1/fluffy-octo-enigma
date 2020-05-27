@@ -1,3 +1,3 @@
 # fluffy-octo-enigma or FOE (gotta think of a better name)
 
-Lorem ipsum.
+Head for the [docs](/docs) folder for more details.
